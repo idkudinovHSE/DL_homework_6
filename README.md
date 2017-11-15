@@ -1,2 +1,2 @@
 # DL_homework_6
-for the gephi seminar
+https://idkudinovhse.github.io/DL_homework_6/
